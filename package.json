@@ -9,7 +9,7 @@
     "start:prod": "razzle build && NODE_ENV=production node build/server.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "razzle": "^2.4.1",
